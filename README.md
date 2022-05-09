@@ -1,0 +1,2 @@
+# MyBlogOther
+blog
